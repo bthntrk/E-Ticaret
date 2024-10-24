@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/E-Ticaret/static/css/main.e6c13ad2.css",
+    "main.js": "/E-Ticaret/static/js/main.c6bcb2ad.js",
+    "static/js/488.af104311.chunk.js": "/E-Ticaret/static/js/488.af104311.chunk.js",
+    "index.html": "/E-Ticaret/index.html",
+    "main.e6c13ad2.css.map": "/E-Ticaret/static/css/main.e6c13ad2.css.map",
+    "main.c6bcb2ad.js.map": "/E-Ticaret/static/js/main.c6bcb2ad.js.map",
+    "488.af104311.chunk.js.map": "/E-Ticaret/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c6bcb2ad.js"
+  ]
+}
